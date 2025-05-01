@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BoardTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-05-01T10:22:42" hostname="DESKTOP-PAQ7BKH" time="0.082">
+  <properties/>
+  <testcase name="testReset()" classname="BoardTest" time="0.044"/>
+  <testcase name="testCheckWinnerDiagonal()" classname="BoardTest" time="0.012"/>
+  <testcase name="testCheckWinnerHorizontal()" classname="BoardTest" time="0.002"/>
+  <testcase name="testIsCellOccupied()" classname="BoardTest" time="0.003"/>
+  <testcase name="testNewBoardIsEmpty()" classname="BoardTest" time="0.002"/>
+  <testcase name="testMakeMove()" classname="BoardTest" time="0.003"/>
+  <testcase name="testIsFull()" classname="BoardTest" time="0.002"/>
+  <testcase name="testCheckWinnerVertical()" classname="BoardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

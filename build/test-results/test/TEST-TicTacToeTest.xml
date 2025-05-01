@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-05-01T10:22:42" hostname="DESKTOP-PAQ7BKH" time="0.026">
+  <properties/>
+  <testcase name="testSelectGameMode()" classname="TicTacToeTest" time="0.015"/>
+  <testcase name="testAskToPlayAgain()" classname="TicTacToeTest" time="0.009"/>
+  <system-out><![CDATA[
+Would you like to play again (yes/no)? 
+Would you like to play again (yes/no)? 
+Would you like to play again (yes/no)? That is not a valid entry!
+
+Would you like to play again (yes/no)? ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
